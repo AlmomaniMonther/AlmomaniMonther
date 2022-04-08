@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @AlmomaniMonther
 - 👀 I’m interested in mobile applications development
-- 🌱 I’m currently learning developing android apps using flutter/dart
+- 👀 I’m interested in mobile applications development
+- 🌱 I’m currently learning to develop android apps using flutter/dart
+
+-  My apps currently support only android platform 
+-  because unfortunately developing iOS apps only on Mac devices and i have windows laptop
+
 - 📫 You can contact me on these links:
 - facebook: https://facebook.com/monther.almomani/
 - twitter: https://twitter.com/eng_abo_habib
