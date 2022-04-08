@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to develop android apps using flutter/dart
 
 -  My apps currently support only android platform 
--  because unfortunately developing iOS apps only on Mac devices and i have windows laptop
+  because unfortunately developing iOS apps only on Mac devices and i have windows laptop
 
 - 📫 You can contact me on these links:
 - facebook: https://facebook.com/monther.almomani/
